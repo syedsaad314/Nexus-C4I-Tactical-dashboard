@@ -1,6 +1,6 @@
 # Nexus C4I: Tactical Command & Intelligence Dashboard
 
-Nexus C4I is a high-fidelity, interactive C4I (Command, Control, Communications, Computers, and Intelligence) simulation dashboard. Built with a focus on real-time data visualization and tactical oversight, it features a futuristic "Deep Midnight" interface and a robust TypeScript-driven backend.
+Nexus C4I is a high-fidelity, interactive C4I (Command, Control, Communications, Computers, and Intelligence) simulation dashboard. Built with a focus on real-time data visualization and tactical oversight, it features a futuristic interface and a robust backend.
 
 ## 🚀 Key Modules
 * **Interactive Tactical Map:** A global visualization tool tracking active cyber-threats across different continents using geographical coordinate mapping.
