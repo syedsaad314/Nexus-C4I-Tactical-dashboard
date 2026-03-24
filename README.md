@@ -30,4 +30,5 @@ This project is a personal exploration into high-fidelity UI/UX and complex dash
 
 ---
 **Developed by Syed Saad Bin Irfan**
+
 *Software Engineering Student | University of Karachi (UBIT)*
